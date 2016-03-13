@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://LenGame7.github.io
+title: Len's Cool Blog
+tagline: A Very Highly Interesting Blog
+description: Interesting information about all subjects...
+paginate: 5
